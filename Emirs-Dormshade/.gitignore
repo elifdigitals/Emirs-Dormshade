@@ -1,0 +1,17 @@
+# Папки
+backups/
+Dictionaries/
+locales/
+resources/
+swiftshader/
+
+# Файлы бинарные
+*.dll
+*.exe
+*.pak
+*.bin
+*.dat
+*.rpm
+
+# Системные/содержимое IDE
+.vscode/
